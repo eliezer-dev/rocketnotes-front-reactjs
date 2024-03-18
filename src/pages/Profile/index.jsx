@@ -1,4 +1,4 @@
-import { Container, Form, Avatar } from "./Styles";
+import { Container, Form, Avatar } from "./styles";
 import { useAuth } from "../../hooks/auth";
 import {FiArrowLeft, FiUser, FiMail, FiLock, FiCamera} from "react-icons/fi";
 import { Input } from "../../components/Input";
